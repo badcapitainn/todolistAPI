@@ -84,7 +84,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'Todolistdb',
         'USER':'postgres',
-        'PASSWORD':'S@dz@101',
+        'PASSWORD':'',
         'HOST':'localhost',
         'PORT':'5432',
     }
